@@ -1,6 +1,6 @@
 # vCard 1 - PK Corporations
 
-![vCard Preview]([https://via.placeholder.com/450](https://blog.pkcorporations.id/uploads/images/202412/image_750x_676c199e4a296.jpg)) <!-- Ganti dengan URL gambar yang sesuai jika ada -->
+![vCard Preview](https://blog.pkcorporations.id/uploads/images/202412/image_750x_676c199e4a296.jpg) 
 
 ## Deskripsi
 
